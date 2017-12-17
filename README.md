@@ -1,0 +1,1 @@
+# edgy-script-to-get-cctlds-that-allows-1-letter-domains-in-any-form
